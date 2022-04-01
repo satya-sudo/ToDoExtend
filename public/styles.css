@@ -1,0 +1,12 @@
+html,body {
+    height: 600px;
+    width: 350px;
+    background-color: black;
+
+}
+
+.card {
+    background-color: rgb(44, 42, 42) !important;
+    animation: fade-in 1s ;
+    font-size: medium;
+}
